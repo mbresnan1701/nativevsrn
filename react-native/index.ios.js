@@ -12,32 +12,12 @@ import {
   View,
   SegmentedControlIOS,
 } from 'react-native'
+import App from './components/App.js';
 
 class Project extends Component {
   render() {
     return (
-      <View style={styles.container}>
-
-        <Text
-          style={{
-            color: "rgba(230,28,104,1)",
-            fontSize: 43,
-            fontWeight: "normal",
-            fontFamily: "Papyrus",
-          }}>
-          My Text
-        </Text>
-        <Text style={styles.welcome}>
-          Welcome to React Native!
-        </Text>
-        <Text style={styles.instructions}>
-          To get started, edit index.ios.js
-        </Text>
-        <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
-        </Text>
-      </View>
+      <App />
     );
   }
 }

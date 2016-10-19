@@ -3,11 +3,11 @@
 		{
 			"range": {
 				"from": {
-					"line": 22,
+					"line": 19,
 					"ch": 19
 				},
 				"to": {
-					"line": 22,
+					"line": 19,
 					"ch": 39
 				}
 			},
@@ -19,11 +19,11 @@
 		{
 			"range": {
 				"from": {
-					"line": 23,
+					"line": 20,
 					"ch": 22
 				},
 				"to": {
-					"line": 23,
+					"line": 20,
 					"ch": 24
 				}
 			},
@@ -34,11 +34,11 @@
 		{
 			"range": {
 				"from": {
-					"line": 24,
+					"line": 21,
 					"ch": 24
 				},
 				"to": {
-					"line": 24,
+					"line": 21,
 					"ch": 32
 				}
 			},
@@ -51,11 +51,11 @@
 		{
 			"range": {
 				"from": {
-					"line": 25,
+					"line": 22,
 					"ch": 24
 				},
 				"to": {
-					"line": 25,
+					"line": 22,
 					"ch": 33
 				}
 			},
